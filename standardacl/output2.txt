@@ -1,0 +1,3 @@
+Packet from 192.168.1.10 deny
+Packet from 192.168.2.5 permit
+Packet from 8.8.8.8 denied

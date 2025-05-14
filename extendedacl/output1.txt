@@ -1,0 +1,5 @@
+Packet from 192.168.1.10 to 192.168.2.5 on port 80 deny
+Packet from 192.168.1.25 to 192.168.2.100 on port 22 permit
+Packet from 192.168.1.50 to 192.168.3.5 on port 80 permit
+Packet from 10.10.10.10 to 192.168.2.20 on port 80 denied
+Packet from 192.168.1.100 to 192.168.2.150 on port 443 permit

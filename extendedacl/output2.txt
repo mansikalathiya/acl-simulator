@@ -1,0 +1,5 @@
+Packet from 10.10.1.20 to 10.10.5.5 on port 53 deny
+Packet from 10.10.2.50 to 10.10.5.100 on port 22 permit
+Packet from 10.10.3.100 to 10.10.6.5 on port 53 permit
+Packet from 192.168.1.1 to 10.10.5.5 on port 80 denied
+Packet from 10.10.4.10 to 10.10.5.50 on port 443 permit

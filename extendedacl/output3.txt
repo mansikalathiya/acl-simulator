@@ -1,0 +1,5 @@
+Packet from 172.16.5.10 to 172.16.6.20 on port 22 deny
+Packet from 172.16.5.50 to 172.16.6.100 on port 80 permit
+Packet from 172.16.4.30 to 172.16.6.5 on port 22 permit
+Packet from 10.10.10.10 to 172.16.6.20 on port 22 denied
+Packet from 172.16.5.25 to 172.16.6.75 on port 443 permit
